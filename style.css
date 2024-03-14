@@ -1,0 +1,30 @@
+#menu{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  font-family: cambria;
+  
+}
+a:hover{
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+p{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  font-family: cambria;
+}
+
+#copyright{
+  font-size: 16px;
+  font-family: cambria;
+}
